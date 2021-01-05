@@ -1,1 +1,1 @@
-This Repo contains toy implementations of common machine learning learning algorithms that have potential use in economics as suggested by the attached papers. Literature that strides both ML and Econ is interesting and quickly increasing. ML is becoming a neccesity in an economists toolbox
+This repo contains implementations of common machine learning learning algorithms that have potential use in economics as suggested by the attached papers. Literature that strides both ML and Econ is interesting and quickly increasing. ML is becoming a neccesity in an economists toolbox
